@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AVB</title>
+    </head>
+ <body>
+    <center>
+    <img src="image/img.jpeg" alt="Athira" width ="100"  height="100">
+     <h1>Athira V Babu</h1>
+     <h3>S1 CSE</h3>
+    </center>
+    <b><u>Skills</u></b>
+    <ul>
+        <li>Web Developer</li>
+        <li>App Developer</li>
+    </ul>
+        <b><u>Social Media</u></b>
+    <ul>
+        <a href="https://instagram.com/athira_v_babu?igshid=piak9cxcjx14"target="_blank"><b><u><li>Instagram</li></u></b></a>
+    </ul>
+ </body>
+</html>
+
